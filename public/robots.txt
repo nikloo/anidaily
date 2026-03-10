@@ -1,0 +1,7 @@
+# AniDaily.net Robots.txt
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /search?
+
+Sitemap: https://anidaily.net/sitemap.xml
